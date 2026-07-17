@@ -1,0 +1,42 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Downloaded models / HuggingFace cache (large files, don't push to GitHub)
+.cache/
+*.bin
+*.safetensors
+
+# Data artifacts (large, regenerable from scripts - optional to exclude)
+# Uncomment the lines below if you don't want to push these large files:
+# data/processed/faiss_index.bin
+# data/processed/chunks_list.pkl
+# data/raw/
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Environment variables / secrets (if you ever add any API keys, tokens, etc.)
+.env
+*.env
+
+# Jupyter checkpoints (if any notebooks are added later)
+.ipynb_checkpoints/
+
+# Logs
+*.log

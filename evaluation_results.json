@@ -1,0 +1,92 @@
+[
+  {
+    "question": "To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?",
+    "baseline": {
+      "answer": "The Virgin Mary allegedly appeared in Lourdes France in 1858.",
+      "groundedness": 50.0
+    },
+    "rag": {
+      "answer": "The Virgin Mary allegedly appeared in 1858 in Lourdes, France.",
+      "groundedness": 50.0
+    },
+    "rad": {
+      "answer": "To Saint Bernadette Soubirous in Lourdes, France.",
+      "groundedness": 50.0
+    }
+  },
+  {
+    "question": "When did Beyonce start becoming popular?",
+    "baseline": {
+      "answer": "Beyonce started becoming popular in the late 1990s and early 2000s, when she was a member of the girl group Destiny's Child. She released her debut album \"Dangerously in Love\" in 2003, which was a commercial success and won several awards, including a Grammy Award for Best Contemporary R&B Album. Beyonce's second album \"B'Day\" was released in 200",
+      "groundedness": 33.33333333333333
+    },
+    "rag": {
+      "answer": "Beyonc\u00e9 started becoming popular in the 1990s.",
+      "groundedness": 0.0
+    },
+    "rad": {
+      "answer": "Beyonc\u00e9 started becoming popular in the decade spanning 19 years, characterized by themes of love, relationships, and monogamy, female sexuality and empowerment on stage through dynamic, highly choreographed",
+      "groundedness": 100.0
+    }
+  },
+  {
+    "question": "Where does the state's name come from?",
+    "baseline": {
+      "answer": "The state's name is \"Maryland,\" which comes from the Latin word \"Mare\" (sea) and the Old English word \"Land\" (land). The name was officially adopted by the Maryland General Assembly in 1776.",
+      "groundedness": 25.0
+    },
+    "rag": {
+      "answer": "The state's name comes from the Spanish word Monta\u00f1a, meaning \"mountain\" or \"mountainous country\".",
+      "groundedness": 50.0
+    },
+    "rad": {
+      "answer": "Montana comes from the Spanish word Monta\u00f1a, meaning \"mountainous country\".",
+      "groundedness": 50.0
+    }
+  },
+  {
+    "question": "In the judgement, it is stated that the aim of the Genocide Convention, at its most simplest, is preventing the destruction of which victims?",
+    "baseline": {
+      "answer": "The aim of the Genocide Convention, at its most simplest, is preventing the destruction of which victims?\n\nThe Genocide Convention aims to prevent the destruction of which victims?",
+      "groundedness": 25.0
+    },
+    "rag": {
+      "answer": "The question asks for the answer to the question \"In the judgement, it is stated that the aim of the Genocide Convention, at its most simplest, is preventing the destruction of which victims?\" The answer is \"The part targeted must be significant enough to have an impact on the group as a whole.\"",
+      "groundedness": 50.0
+    },
+    "rad": {
+      "answer": "Context: In paragraph 8, 9, 10, and 11 addressed the issue of in part and found that \"the part must be a substantial part of that group. The aim of the Genocide Convention is to prevent",
+      "groundedness": 50.0
+    }
+  },
+  {
+    "question": "What is a modern common occurence with antibiotics?",
+    "baseline": {
+      "answer": "A modern common occurence with antibiotics is the development of antibiotic resistance, which is the ability of bacteria to become resistant to antibiotics. This resistance occurs when bacteria acquire a genetic mutation that allows them to resist the effects of antibiotics, making them more difficult to treat. Antibiotic resistance is a significant public health issue, as it can lead to the development of superbugs that are difficult to treat",
+      "groundedness": 66.66666666666666
+    },
+    "rag": {
+      "answer": "The modern common occurrence with antibiotics is the overuse of antibiotics, which has been associated with emerging antibiotic resistance since the 1950s.",
+      "groundedness": 100.0
+    },
+    "rad": {
+      "answer": "Widespread usage of antibiotics in hospitals has also been associated with increases in bacterial strains and species that no longer respond to treatment with the most common anti-inflammatory drugs, such as asp",
+      "groundedness": 50.0
+    }
+  },
+  {
+    "question": "What was Fr\u00e9d\u00e9ric's nationalities?",
+    "baseline": {
+      "answer": "Fr\u00e9d\u00e9ric's nationality was French.",
+      "groundedness": 50.0
+    },
+    "rag": {
+      "answer": "Fr\u00e9d\u00e9ric Fran\u00e7ois Chopin was a Polish and French composer and virtuoso pianist who wrote primarily for the solo piano.",
+      "groundedness": 50.0
+    },
+    "rad": {
+      "answer": "Chopin was a Polish and French (by citizenship and birth of father) composer and a virtuoso pianist of the Romantic era, who wrote primarily for the solo piano. He gained and has maintained renown worldwide as one",
+      "groundedness": 50.0
+    }
+  }
+]
